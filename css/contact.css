@@ -65,7 +65,7 @@ body {
 
 #decoration {
     width: 2px;
-    height: 500px;
+    height: 600px;
     background: white;
     margin-bottom: 3rem;
     border: 1px wsolid white;
@@ -96,11 +96,11 @@ body {
 }
 
 #hero-text {
-    font-size: 7rem;
+    font-size: 5rem;
     font-weight: bolder;
     text-align: left;
     text-transform: uppercase;
-    margin-top: 5rem;
+    margin-top: 3rem;
 }
 
 #hero-description {
@@ -114,7 +114,7 @@ body {
 }
 
 #contact-form-section {
-    align-self: center;
+    align-self: baseline;
     padding: 2rem;
     height: 70%;
     background-color: #22222285;
